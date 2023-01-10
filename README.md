@@ -1,28 +1,28 @@
-# *Welcome to Beyond Planets - Machine Git* #
+<a href="https://discord.gg/2fNcNGjZt8">
+  <p align="center">
+      <img src="https://img.shields.io/discord/698598471896268931?    color=blue&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge" alt="Discord" width="191"/> 
+  </p>
+</a>
 
-This mod adds new machines to add to the Beyond Earth experience
+# *Planeteer - Machines* 
 
-# Machines
-
-* Solar Panels (Tier 1 - 4)
+This is a mod for Minecraft that adds Machines for the Planeteer family of mods for [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth).
 
 # Links
 
-Curseforge version: [here](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-machines)
+[Curseforge Version](https://www.curseforge.com/minecraft/mc-mods/planeteer-machines)
 
-Discord: [here](https://discord.gg/tWfYRpKNKW)
+Other Mods:
+  - [Planeteer - Core](https://www.curseforge.com/minecraft/mc-mods/planeteer-core)
+  - [Planeteer - Dimensions](https://www.curseforge.com/minecraft/mc-mods/planeteer-dimensions)
 
-# Our Other Mods: #
+# Machines
 
-* [Beyond Planets - Core](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-core)
-
-* [Beyond Planets - Dimensions](https://www.curseforge.com/minecraft/mc-mods/beyond-planets-dimensions)
-
+- Solar Panels (Tier 1 to 4)
+- More Machines in the works
 
 # Credits #
 
-* Lego245
-* Aflora
-* TheRealM18
-* Iamruukie
-* TheCraftingBunny
+- Lego245
+- ZAppFireCZ
+- Former team: [TheRealM18 Studios](https://therealm18studios.com)
